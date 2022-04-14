@@ -1,3 +1,6 @@
 [submodule "Class_register"]
 	path = Class_register
 	url = https://github.com/Agata-Gizinska/Class_register.git
+[submodule "Dice_Game"]
+	path = Dice_Game
+	url = https://github.com/Agata-Gizinska/Dice_Game.git
