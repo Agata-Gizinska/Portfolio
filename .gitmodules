@@ -7,3 +7,6 @@
 [submodule "Adventure_game"]
 	path = Adventure_game
 	url = https://github.com/Agata-Gizinska/Adventure_game.git
+[submodule "File_Sorter"]
+	path = File_Sorter
+	url = https://github.com/Agata-Gizinska/File_Sorter.git
