@@ -10,3 +10,6 @@
 [submodule "File_Sorter"]
 	path = File_Sorter
 	url = https://github.com/Agata-Gizinska/File_Sorter.git
+[submodule "Web_scrapper_NBP"]
+	path = Web_scrapper_NBP
+	url = https://github.com/Agata-Gizinska/Web_scrapper_NBP.git
