@@ -4,3 +4,6 @@
 [submodule "Dice_Game"]
 	path = Dice_Game
 	url = https://github.com/Agata-Gizinska/Dice_Game.git
+[submodule "Adventure_game"]
+	path = Adventure_game
+	url = https://github.com/Agata-Gizinska/Adventure_game.git
