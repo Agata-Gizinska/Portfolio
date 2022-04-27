@@ -2,7 +2,7 @@
 
 My name is Agata and this is my Portfolio repository!
 
-This repository is a collection of my work and experience I have gathered in the last few months learning Python and how to code.
+This is my publishing space for any project I feel is somewhat complete and usable.
 
 ## My projects
 
@@ -12,7 +12,7 @@ This repository is a collection of my work and experience I have gathered in the
 
 => [Dice Game](https://github.com/Agata-Gizinska/Dice_Game/tree/master)
 
-=> [File Sorter](https://github.com/Agata-Gizinska/File_Sorter/tree/1b348c7d6d6733490207c6cbd922c194b7ded702)
+=> [File Sorter](https://github.com/Agata-Gizinska/File_Sorter/tree/master)
 
 => [Web Scrapper for currency rates](https://github.com/Agata-Gizinska/Web_scrapper_NBP/tree/master)
 
