@@ -2,7 +2,7 @@
 
 My name is Agata and this is my Portfolio repository!
 
-This repository is a collection of my work and experience I have gathered in the last few months learning Python and how to code.
+This is my publishing space for any project I feel is somewhat complete and usable.
 
 ## My projects
 
