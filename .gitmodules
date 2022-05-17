@@ -1,15 +1,16 @@
 [submodule "Class_register"]
 	path = Class_register
-	url = https://github.com/Agata-Gizinska/Class_register.git
+	url = ../Class_register.git
 [submodule "Dice_Game"]
 	path = Dice_Game
-	url = https://github.com/Agata-Gizinska/Dice_Game.git
+	url = ../Dice_Game.git
 [submodule "Adventure_game"]
 	path = Adventure_game
-	url = https://github.com/Agata-Gizinska/Adventure_game.git
+	url = ../Adventure_game.git
 [submodule "File_Sorter"]
 	path = File_Sorter
-	url = https://github.com/Agata-Gizinska/File_Sorter.git
+	url = ../File_Sorter.git
 [submodule "Web_scrapper_NBP"]
 	path = Web_scrapper_NBP
-	url = https://github.com/Agata-Gizinska/Web_scrapper_NBP.git
+	url = ../Web_scrapper_NBP.git
+
