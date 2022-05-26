@@ -16,6 +16,8 @@ This is my publishing space for any project I feel is somewhat complete and usab
 
 => [Web Scrapper for currency rates](https://github.com/Agata-Gizinska/Web_scrapper_NBP/tree/master)
 
+=> [API Challenge](https://github.com/Agata-Gizinska/API_Challenge.git)
+
 ## Technologies and setup
 
 All requirements for a setup are listed in the readme file for each project.

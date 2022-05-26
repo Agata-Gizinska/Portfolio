@@ -13,4 +13,6 @@
 [submodule "Web_scrapper_NBP"]
 	path = Web_scrapper_NBP
 	url = ../Web_scrapper_NBP.git
-
+[submodule "API_Challenge"]
+	path = API_Challenge
+	url = ../API_Challenge.git
